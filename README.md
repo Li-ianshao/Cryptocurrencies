@@ -1,1 +1,1 @@
-# Cryptocurrencies
+# cryptocurrencies
